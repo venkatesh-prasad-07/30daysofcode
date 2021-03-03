@@ -1,0 +1,15 @@
+i = 4
+d = 4.0
+s = 'HackerRank '
+# Declare second integer, double, and String variables.
+su = int(input())
+di = float(input())
+st = str(input())
+
+
+p1 = i + su
+p2 = i + di
+p3 = str(s + st)
+print (int(p1))
+print (float(p2))
+print (p3)
